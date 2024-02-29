@@ -1,2 +1,2 @@
 Flask==2.1.1
-Jsonify
+jsonify==0.5
